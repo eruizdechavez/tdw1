@@ -1,6 +1,6 @@
 # Taller de desarrollo web
 
-Taller de desarrollo web enfocado a programadores web con experiencia previa en JavaScript y algún otro lenguaje de programación para servidor.
+Taller de desarrollo web enfocado a **programadores web con experiencia previa en JavaScript** y algún otro lenguaje de programación para servidor.
 
 El taller consistirá de varias sesiones (por definirse) mediante Google Hangouts, aproximadamente 2 por semana, 1 a 2 horas por sesión. El cupo estara limitado a 8 personas y tendra costo (por definirse).
 
