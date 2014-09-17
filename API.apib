@@ -264,22 +264,6 @@ Crea un post nuevo. El campo `text` es obligatorio. En caso de no ser valido (o 
 
             x-error-code: 4
 
-### Borrar un Post [DELETE]
-
-Requiere autenticacion.
-
-Elimina un post. En caso de no contar con autorizacion (tratar de eliminar un post de otro usuario) se regresara un error `403`.
-
-- Request
-
-    - Headers
-
-            Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
-
-- Response 204
-
-- Response 403
-
 
 Post [/posts/{id}]
 ------------------
@@ -301,4 +285,21 @@ Regresa un objeto con el contenido del post. En caso de no encontrarse, se regre
 - Response 200 (application/json)
 
     [Post][]
+
+
+### Borrar un Post [DELETE]
+
+Requiere autenticacion.
+
+Elimina un post. En caso de no contar con autorizacion (tratar de eliminar un post de otro usuario) se regresara un error `403`.
+
+- Request
+
+    - Headers
+
+            Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
+
+- Response 204
+
+- Response 403
 
