@@ -8,6 +8,10 @@ Las sesiones se desarrollaran de una manera informal, iniciando con algo de teor
 
 Durante el taller estaremos haciendo uso de muchas herramientas, por lo que los asistentes deberan tener flexibilidad e iniciativa para aprenderlas por su cuenta; algunas de las herramientas a usar son editor de cogido, linea de comando, Git, GitHub, Node.js, Grunt, Browserify, AngularJS, MongoDB (o Redis), Heroku, Codeship, y otras mas, segun sea necesario.
 
+## Que vamos a construir?
+
+Al final del curso tendremos una micro red social.
+
 ## Bases de desarrollo web
 
 Aunque se trata de un tema básico, muchos no tienen las bases suficientes para comprender gran parte del desarrollo web. Tocaremos los siguientes temas de forma muy general y breve, salvo que se necesite explicar alguno a mas detalle.
@@ -16,10 +20,10 @@ Aunque se trata de un tema básico, muchos no tienen las bases suficientes para 
 - Dirección IP
 - DNS, Nombres de dominio
 - Servidor web
-- HTTP (verbos, códigos de respuesta, cabeceras, contenido)
-- HTML, CSS
-- Aplicación cliente vs aplicación servidor
+- HTTP (verbos, recursos, encabezados, códigos de respuesta, contenido)
+- HTML, CSS, DOM
 - AJAX, JSON
+- Aplicación cliente vs aplicación servidor vs aplicación cliente/servidor
 
 ## Planeación del API
 
