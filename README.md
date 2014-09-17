@@ -31,7 +31,7 @@ Antes de iniciar el desarrollo del cliente o del servidor definiremos que servic
 
 - REST, Servicios RESTful y Modelo de madurez de Richardson
 - Markdown
-- API Blueprint: Apiary
+- API Blueprint: [Apiary](http://docs.tdw1.apiary.io)
 
 ## Desarrollo del cliente con AngularJS (y compañía)
 
