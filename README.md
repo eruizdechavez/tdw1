@@ -3,7 +3,13 @@ Taller de desarrollo web
 
 Taller de desarrollo web enfocado a **programadores web con experiencia previa en JavaScript** en el que veremos paso a paso mediante el uso de ejemplos como ir de 0 a una aplicación MEAN.
 
-El taller consistirá en una serie de sesiones en Google Hangouts. El cupo es limitado a 9 personas. El taller inicia el día lunes 13 de octubre y termina el martes 28 de octubre; en caso de que juntar al menos 5 participantes estaríamos reagendando la fecha, no mas de 2 semanas después. Tendremos una sesión adicional antes de arrancar el taller para asegurarnos que todos los participantes tengan el software requerido.
+- El taller consistirá en una serie de 12 sesiones en Google Hangouts.
+- El cupo es limitado a 9 personas.
+- El taller inicia el día lunes 13 de octubre y termina el martes 28 de octubre.
+- Las sesiones seran de lunes a viernes, iniciando a las 7 pm hora del este y con una duracion de 2 horas cada una aproximadamente. Para mas detalles sobre zonas horarias puedes usar [time.is](http://time.is/0700PM_13_Oct_2014_in_Connecticut?Taller_de_desarrollo_web)
+- En caso de no juntar al menos 5 participantes estaríamos reagendando la fecha, no mas de 2 semanas después.
+
+Tendremos una sesión adicional antes de arrancar el taller para asegurarnos que todos los participantes tengan el software requerido.
 
 Las sesiones se desarrollarán de una manera informal, cubriendo solamente la teoría que sea necesaria para la compresión de los temas a tratar, seguido por la practica en vivo. Los participantes podrán hacer las preguntas que sean convenientes así como interactuar entre ellos y con el instructor en tiempo real.
 
