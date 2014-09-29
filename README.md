@@ -3,6 +3,7 @@ Taller de desarrollo web
 
 Taller de desarrollo web enfocado a **programadores web con experiencia previa en JavaScript** en el que veremos paso a paso mediante el uso de ejemplos como ir de 0 a una aplicación MEAN.
 
+- Costo: [US$120](https://gum.co/tdw1) 
 - El taller consistirá en una serie de 12 sesiones en Google Hangouts.
 - El cupo es limitado a 9 personas.
 - El taller inicia el día lunes 13 de octubre y termina el martes 28 de octubre.
