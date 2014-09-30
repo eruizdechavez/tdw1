@@ -8,7 +8,7 @@ Taller de desarrollo web enfocado a **programadores web con experiencia previa e
 - El cupo es limitado a 9 personas.
 - El taller inicia el día lunes 13 de octubre y termina el martes 28 de octubre.
 - Las sesiones seran de lunes a viernes, iniciando a las 7 pm hora del este y con una duracion de 2 horas cada una aproximadamente. Mas detalles en el [calendario](https://www.google.com/calendar/embed?src=f1brsol4qbaav1h1osq10gem5o%40group.calendar.google.com&ctz=America/New_York).
-- En caso de no juntar al menos 5 participantes estaríamos reagendando la fecha, no mas de 2 semanas después.
+- ~~En caso de no juntar al menos 5 participantes estaríamos reagendando la fecha, no mas de 2 semanas después.~~
 
 Tendremos una sesión adicional antes de arrancar el taller para asegurarnos que todos los participantes tengan el software requerido.
 
